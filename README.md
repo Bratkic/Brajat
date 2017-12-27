@@ -1,2 +1,2 @@
 # Brajat
-Pravimo sajtic
+Brajat je univerzalno ime koje se koristi kao unija Bratketa i Bajata
