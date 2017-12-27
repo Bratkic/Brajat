@@ -1,1 +1,10 @@
-hej
+img {
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+section{
+  background-color: grey;
+  background-height: 100%;
+  z-index: 1;
+}
