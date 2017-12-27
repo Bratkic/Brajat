@@ -1,8 +1,11 @@
 body{
 	background-image: url("pozadina.jpg");
+	background-size: cover;
 }
 section{
-  background-color: yellow;
+  background-color: #696969;
+  border-radius:40px;
+  padding-top: 50px;
 }
 section > div {
 	height:100vh;
