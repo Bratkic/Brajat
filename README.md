@@ -1,4 +1,3 @@
 # Brajat
-Brajat je univerzalno ime koje se koristi kao unija Bratketa i Bajata
-EDIT: Edit.
-sdasd
+
+Napravio sam pocetnu stranicu i dodao sam guzu na facu
