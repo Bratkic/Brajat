@@ -1,3 +1,1 @@
-# Brajat
-
-Napravio sam pocetnu stranicu i dodao sam guzu na facu
+Zabagao mi skajp
