@@ -1,6 +1,9 @@
-
+body{
+	background-image: url("pozadina.jpg");
+}
 section{
-  height: 974px;
   background-color: yellow;
-  flex
+}
+section > div {
+	height:100vh;
 }
