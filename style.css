@@ -7,11 +7,11 @@ section{
   border-radius:40px;
   
 }
-.container{
+section > div{
 	height:100vh;
 }
-.container h2{
-	font-size:22px;
+div{
+	font-size:25px;
 
 
 	
